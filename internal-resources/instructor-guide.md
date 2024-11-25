@@ -1,18 +1,16 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Java Unit Test Project</span>
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-tktk Ensure this document doesn't directly conflict with how you've structured the project documentation and rubric. It's possible some items here won't make sense after building out the project docs.
-
 ## What's included?
 
-This is the repo for an individual [tktk Headline]. It includes:
+This is the repo for an individual Java Unit Test Project. It includes:
 
-- [tktk Headline] Journey
-- [tktk Headline] Requirements and Guidance
-- [tktk Headline] Deliverables [students submit URLs for their project planning materials, a GitHub repo, and a deployed app through the duration of the project. This can be customized - see the **Customizing deliverables** section]
-- [tktk Headline] Feedback [in Canvas only]
+- Project Journey
+- Project Requirements and Guidance
+- Poroject Deliverables [students submit URLs for their project planning materials, a GitHub repo, and a deployed app through the duration of the project. This can be customized - see the **Customizing deliverables** section]
+- Java Unit Test Project Feedback [in Canvas only]
 
 ## Customizing your project delivery
 
@@ -20,7 +18,7 @@ Customize how you deliver project content by adding to the existing project docu
 
 You should not add, remove, or alter any project requirements.
 
-The [tktk Headline] Requirements and Guidance page provides some basic background information for the project in the **Guidance** section. Sensible defaults are provided here, but you may want to add some details on top of what this document provides to match how you'd like to frame the project for your students.
+The Java Unit Test Project Requirements and Guidance page provides some basic background information for the project in the **Guidance** section. Sensible defaults are provided here, but you may want to add some details on top of what this document provides to match how you'd like to frame the project for your students.
 
 Some existing items already covered in this document that you may want to expand on include:
 
@@ -28,14 +26,6 @@ Some existing items already covered in this document that you may want to expand
 - Details on how you will provide project assistance.
 - Level Up ideas for students after they have completed their projects.
 - Presentation details such as the time allotted for presentations and suggested topics for students to cover during their presentations.
-
-You may also want to make additions, such as:
-
-- Examples of suitable planning materials.
-- Examples of previous student projects.
-- Schedule considerations such as any bonus lectures or stand-ups.
-
-You can also make changes to the planning materials students submit and the app they use to build them. For this project, students will develop their planning materials using tktk by default. If you'd prefer something different, you must create a new Project Planning Deliverable document to replace the existing one.
 
 When making additions, avoid overwhelming students with irrelevant or unhelpful details. These documents are already dense for learners, so try not to go overboard by adding too much information.
 
@@ -58,10 +48,10 @@ Some instructors may want to split the project deliverable into multiple parts t
 
 Edits to project requirements are complex and should be made thoughtfully. When requirements change, alterations need to be made uniformly to the following documents/resources:
 
-- [tktk Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1-wllnnJofVGIgOM2YoNkrG6qcfjw5uNHMt9ohFkisak/edit).
+- [Java Unit Test Project Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1QOHl3Ao9bWgq0CuO8_txyrqpeTDcOw3DnkxVoyDxM84/edit?).
 - [Project Requirements PDF](../project-requirements-and-guidance/assets/project-requirements.pdf) (built from the Project Requirements document in Google Sheets).
 - [Project Requirements document served in GitHub Pages](../project-requirements-and-guidance/README.md).
-- All [tktk Headline] rubrics in Canvas.
+- All Java Unit Test Project rubrics in Canvas.
 
 ---
 

@@ -1,23 +1,19 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Java Unit Test Project</span>
 </h1>
 
-tktk add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
-
-## About
-
-***Instructors should see the Instructor Guide for more configuration details.***
-
-tktk Add a short description of the project here.
+This project is designed to be a unit test project for Java. Students will work individually on this project. The project uses Spring Boot to create a RESTful API. The project uses Mokito to test the API. The project uses a PostgreSQL database to store and retrieve data. The project includes at least one model with all CRUD operations. Unit test are written for the CRUD operations. The app is deployed online so that the rest of the world can use it. You are shown as the only contributor to the project on GitHub.
 
 ## Content
 
-[Project Journey](../project-journey/README.md)
+[Project Journey](./project-journey/README.md)
 
-[Requirements and Guidance](../requirements-and-guidance/README.md)
+[Requirements and Guidance](./requirements-and-guidance/README.md)
 
-[Deliverables](../deliverables/README.md)
+[Project GitHub Repo Deliverable](./github-repo-deliverable/README.md)
 
-[tktk Project Requirements PDF](../requirements-and-guidance/assets/project-requirements.pdf)
+[Project Deployed App Deliverable](./deployed-app-deliverable/README.md)
+
+[Project Requirements PDF](./requirements-and-guidance/assets/project-requirements.pdf)

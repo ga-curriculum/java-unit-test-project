@@ -1,13 +1,11 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Java Unit Test Project</span>
   <span class="subhead">Requirements and Guidance</span>
 </h1>
 
 ## Overview
 
-tktk Project description. Use the below requirements as a sensible starting point but don't feel obligated to the boilerplate suggestions here if it doesn't work for the project you're constructing.
-
-***tktk You will work individually on this project***.
+***You will work individually on this project***.
 
 > ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
 
@@ -19,9 +17,11 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will result in the project receiving a failing grade.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
+- The project uses Spring Boot to create a RESTful API.
+- The project uses Mokito to test the API.
+- The project uses a PostgreSQL database to store and retrieve data.
+- The project includes at least one model with all CRUD operations.
+- Unit test are written for the CRUD operations.
 - The app is deployed online so that the rest of the world can use it.
 - You are shown as the only contributor to the project on GitHub.
 
@@ -29,9 +29,6 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
 - The files in the app are organized following the conventions demonstrated in lectures.
 - The code in the app adheres to coding conventions covered in lessons, like using plural names for arrays.
 - The app does not contain dead code, commented-out sections, or console logs.
@@ -43,9 +40,6 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ More than two items marked incomplete in this section will result in the project receiving a failing grade.
 
-- tktk Requirement here
-- tktk Requirement here
-- tktk Requirement here
 - The app exhibits a visual theme, like a consistent color palette and cohesive layout across pages.
 - The app is easily navigable by a first-time user. For example, navigation should be done through links instead of having to type in a URL to navigate around the app.
 - The app utilizes CSS Flexbox and/or Grid for page layout design.

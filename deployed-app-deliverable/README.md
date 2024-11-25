@@ -1,11 +1,11 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Java Unit Test Project</span>
   <span class="subhead">Deployed App Deliverable</span>
 </h1>
 
 ## Introduction
 
-You'll need to deploy your project on the internet so that others are able to use it! Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your project.
+You'll need to deploy your project on the internet so that others are able to use it! Follow the [Java Deployment guide](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/tree/main/deployment/java-deployment) to deploy your project.
 
 ## Submitting the URL for your deployed app
 
