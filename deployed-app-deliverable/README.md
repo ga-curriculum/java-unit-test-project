@@ -5,7 +5,7 @@
 
 ## Introduction
 
-You'll need to deploy your project on the internet so that others are able to use it! Follow the [Java Deployment guide](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/tree/main/deployment/java-deployment) to deploy your project.
+You'll need to deploy your project on the internet so that others are able to use it! Follow the [Java Deployment guide](https://ga-curriculum.github.io/universal-resources/deployment/java-deployment/) to deploy your project.
 
 ## Submitting the URL for your deployed app
 
